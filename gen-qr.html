@@ -6,9 +6,9 @@
 <body style="display:flex;align-items:center;justify-content:center;min-height:100vh;background:#F5F5F7;flex-direction:column;font-family:sans-serif;">
 <h2 style="margin-bottom:20px;color:#1D1D1F;">五金配件目录</h2>
 <div id="qr"></div>
-<p style="margin-top:16px;color:#8E8E93;font-size:13px;">http://10.10.13.13:3000</p>
+<p style="margin-top:16px;color:#8E8E93;font-size:13px;">https://scan-mini-app-1343026848.cos-website.ap-guangzhou.myqcloud.com</p>
 <script>
-QRCode.toCanvas(document.createElement('canvas'), 'http://10.10.13.13:3000', {
+QRCode.toCanvas(document.createElement('canvas'), 'https://scan-mini-app-1343026848.cos-website.ap-guangzhou.myqcloud.com', {
   width: 280, margin: 2, color: {dark:'#1D1D1F',light:'#FFF'}
 }, function(err, canvas) {
   if (err) { document.getElementById('qr').textContent = err.message; return; }

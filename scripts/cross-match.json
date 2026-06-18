@@ -1,0 +1,248 @@
+{
+  "summary": {
+    "publicTotal": 62,
+    "pptTotal": 511,
+    "matched": 49,
+    "unmatchedInPublic": 13,
+    "newInPPT": 462
+  },
+  "matched": [
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\12lichangfanggai.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide14_img040.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\12lixinkuanerheyibantuo.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide20_img065.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\bantuoluosi.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide14_img044.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\buxiugangjiajuguijiao.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide16_img053.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\diannaojianpantuojia.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide18_img060.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\diannaozhuohejinchuanxianhe.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide21_img068.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\hejinxipanbantuo.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide22_img071.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\jiahousuliaoxianhe.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide15_img047.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\jiajudijiaoding.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide15_img048.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\jiajufanghuazenggaojiaodian.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide19_img063.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\jiajushuijingfangchenjiaoli.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide15_img051.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\jiaomaxilie.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide21_img069.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\sanheyigai.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide16_img054.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\shizisanheyizhuangshigai.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide22_img072.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\shizizigongluosigai.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide17_img057.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\suliaodiannaojianpantuo.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide18_img059.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\xingshengfasanheyilun.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide24_img077.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\xinkuanjianyisanheyibantuo.png",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\Sanheyisuokoupeigai1.png"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFbantuoxiao.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide11_img029.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFchaxiao.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide13_img034.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFdiaoma (8101214cun).jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide13_img035.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFfanghuakelibantuo.png",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\12Banyuantuonie.png"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFfangzhuangjiao.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide11_img025.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFfantanqi.png",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\12cmErheyibantuo.png"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFguijiao.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide11_img027.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFheye.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide15_img049.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFheyekongsai.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide15_img050.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFhuoxingtantouqifeng.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide13_img037.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFjiajusuo.png",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\jianyisanheyiban.png"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFjiaolian.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide11_img026.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFjiaoliandeng.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide23_img074.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFjiubeijia.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide19_img062.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFkuaizhuanggan.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide11_img028.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFlazhiqi.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide24_img078.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFlazhiqi（chongfu）.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide12_img031.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFluomu.png",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\15Banyuantuonie.png"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFtieyijia.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide13_img038.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFshensuyijia.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\Fanghuakelibantuo.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFshexingguan.png",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\12 Changfanggai.png"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFshizijiao.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide15_img046.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFtoumingxiangjiaojiajujiaodian.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide14_img043.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFtouqiwang.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide13_img033.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFweisilangjiaolun.png",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\18Banyuantuonie.png"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFxianweibanding.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide23_img075.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFyincangdiaoma.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide14_img041.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFyincangjiaolian.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide14_img042.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\yiguijiahouguayigan.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide17_img056.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\yumaijianzhanshi.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide12_img030.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\zhiganerheyibantuo.jpg",
+      "pptPath": "E:\\all_ppt_images\\ppt1\\slide20_img066.jpg"
+    }
+  ],
+  "unmatchedInPublic": [
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\12x12.5sanheyisuokou.png"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\buxiugangmogulashou.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFyituo.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\lianjieganzhanshi.png"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\suliaochuanxianhe.png"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\Uxingfengbianxiashuikou.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\xiandaijianyuetaikonglvlashou.png"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFbolikou.png"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFfangshuidian.png"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFmaobian.jpg"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSFtangmenlun.png"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSF二折隐藏反弹滑轨.png"
+    },
+    {
+      "publicPath": "E:\\scan-mini-app\\public\\images\\XSF二折隐藏缓冲滑轨.png"
+    }
+  ]
+}

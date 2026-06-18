@@ -1,0 +1,1816 @@
+{
+  "ppt1/12 Changfanggai": {
+    "name": "12厘长方盖",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "12 Changfanggai.png"
+  },
+  "ppt1/12Banyuantuonie": {
+    "name": "12 厘板托",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "12Banyuantuonie.png"
+  },
+  "ppt1/12cmErheyibantuo": {
+    "name": "12厘二合一板托 ",
+    "categoryId": "c1",
+    "desc": "长方盖 小方盖 小半圆盖"
+  },
+  "ppt1/12x12.5Sanheyi": {
+    "name": "12x12.5三合一",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt1/15Banyuantuonie": {
+    "name": "15厘米托板托",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt1/18Banyuantuonie": {
+    "name": "18厘米板托",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt1/Fanghuakelibantuo": {
+    "name": "防滑颗粒板托",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt1/jianyisanheyiban": {
+    "name": "简易三合一板",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt1/Sanheyisuokoupeigai1": {
+    "name": "三个锁扣配盖",
+    "categoryId": "c1",
+    "desc": "12/15"
+  },
+  "ppt1/slide11_img024": {
+    "name": "三合一轮+-",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide11_img024.jpg"
+  },
+  "ppt1/slide11_img025": {
+    "name": "三合一轮花标",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide11_img025.jpg"
+  },
+  "ppt1/slide11_img026": {
+    "name": "三合一轮偏心",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide11_img026.jpg"
+  },
+  "ppt1/slide11_img027": {
+    "name": "三合一轮箭头",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide11_img027.jpg"
+  },
+  "ppt1/slide11_img028": {
+    "name": "三合一轮箭头E3",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide11_img028.jpg"
+  },
+  "ppt1/slide11_img029": {
+    "name": "三合一轮393",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide11_img029.jpg"
+  },
+  "ppt1/slide12_img030": {
+    "name": "三合一轮1518带介",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide12_img030.jpg"
+  },
+  "ppt1/slide12_img031": {
+    "name": "三合一轮1518无介",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide12_img031.jpg"
+  },
+  "ppt1/slide13_img033": {
+    "name": "三折阻尼滑轨（10 12 14 16 18 20寸）",
+    "categoryId": "c3",
+    "desc": "",
+    "primary": "slide13_img033.jpg"
+  },
+  "ppt1/slide14_img040": {
+    "name": "威斯朗脚轮半寸",
+    "categoryId": "c3",
+    "desc": "",
+    "primary": "slide14_img040.jpg"
+  },
+  "ppt1/slide14_img042": {
+    "name": "威斯朗脚轮2寸",
+    "categoryId": "c3",
+    "desc": "",
+    "primary": "slide14_img042.jpg"
+  },
+  "ppt1/slide15_img046": {
+    "name": "胶链 直/中/大",
+    "categoryId": "c2",
+    "desc": "| |",
+    "primary": "slide15_img046.jpg"
+  },
+  "ppt1/slide16_img053": {
+    "name": "胶链 直/中/大",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide16_img053.jpg"
+  },
+  "ppt1/slide17_img056": {
+    "name": "不锈钢缓冲胶链",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide17_img056.jpg"
+  },
+  "ppt1/slide17_img057": {
+    "name": "缓冲胶链",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide17_img057.jpg"
+  },
+  "ppt1/slide18_img059": {
+    "name": "165度缓冲胶链",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide18_img059.jpg"
+  },
+  "ppt1/slide18_img060": {
+    "name": "玻璃门缓冲胶链",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide18_img060.jpg"
+  },
+  "ppt1/slide19_img062": {
+    "name": "不锈钢缓冲胶链",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide19_img062.jpg"
+  },
+  "ppt1/slide19_img063": {
+    "name": "短臂缓冲胶链",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide19_img063.jpg"
+  },
+  "ppt1/slide20_img065": {
+    "name": "多角度胶链",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide20_img065.jpg"
+  },
+  "ppt1/slide21_img068": {
+    "name": "缓冲弹子胶",
+    "categoryId": "c2",
+    "desc": "| 缓冲胶链",
+    "primary": "slide21_img068.jpg"
+  },
+  "ppt1/slide21_img069": {
+    "name": "缓冲胶链",
+    "categoryId": "c2",
+    "desc": "缓冲弹子胶 |",
+    "primary": "slide21_img069.jpg"
+  },
+  "ppt1/slide22_img071": {
+    "name": "铝框缓冲胶链",
+    "categoryId": "c2",
+    "desc": "| 枪黑铝框胶链",
+    "primary": "slide22_img071.jpg"
+  },
+  "ppt1/slide22_img072": {
+    "name": "枪黑铝框胶链",
+    "categoryId": "c2",
+    "desc": "铝框缓冲胶链 |",
+    "primary": "slide22_img072.jpg"
+  },
+  "ppt1/slide23_img074": {
+    "name": "胶链WY-101SS",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide23_img074.jpg"
+  },
+  "ppt1/slide23_img075": {
+    "name": "胶链WY-104",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide23_img075.jpg"
+  },
+  "ppt1/slide24_img077": {
+    "name": "胶链WY-102-4H",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide24_img077.jpg"
+  },
+  "ppt1/slide24_img078": {
+    "name": "胶链WY-103",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide24_img078.jpg"
+  },
+  "ppt1/slide25_img080": {
+    "name": "短臂铁液压固定普通调节螺丝",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide25_img080.jpg"
+  },
+  "ppt1/slide25_img081": {
+    "name": "短臂英式腰铁普通固定",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide25_img081.jpg"
+  },
+  "ppt1/slide26_img083": {
+    "name": "不锈钢201普通短臂4孔2维螺丝",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide26_img083.jpg"
+  },
+  "ppt1/slide26_img084": {
+    "name": "短臂261腰铁普通固定",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide26_img084.jpg"
+  },
+  "ppt1/slide27_img086": {
+    "name": "短臂铁液压固定二维调节螺丝",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide27_img086.jpg"
+  },
+  "ppt1/slide34_img112": {
+    "name": "铰链直弯中弯大弯 ",
+    "categoryId": "c2",
+    "desc": "无弹力胶链",
+    "primary": "slide34_img112.jpg"
+  },
+  "ppt1/slide34_img113": {
+    "name": "无弹力铰链",
+    "categoryId": "c2",
+    "desc": "无弹力胶链",
+    "primary": "slide34_img113.jpg"
+  },
+  "ppt1/slide35_img115": {
+    "name": "胶链灯",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide35_img115.jpg"
+  },
+  "ppt1/slide36_img117": {
+    "name": "二折隐藏反弹滑轨",
+    "categoryId": "c3",
+    "desc": "",
+    "primary": "slide36_img117.jpg"
+  },
+  "ppt1/slide36_img118": {
+    "name": "二折隐藏缓冲滑轨",
+    "categoryId": "c3",
+    "desc": "",
+    "primary": "slide36_img118.jpg"
+  },
+  "ppt1/slide37_img120": {
+    "name": "暗藏层板托 板托销",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide37_img120.jpg"
+  },
+  "ppt1/slide39_img131": {
+    "name": "插销三样式",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide39_img131.jpg"
+  },
+  "ppt1/slide40_img139": {
+    "name": "吊码（8 10 12 14寸）",
+    "categoryId": "c4",
+    "desc": "",
+    "primary": "slide40_img139.jpg"
+  },
+  "ppt2/slide02_img004": {
+    "name": "L型重吊码 支架 托架",
+    "categoryId": "c4",
+    "desc": "",
+    "primary": "slide02_img004.jpg"
+  },
+  "ppt2/slide02_img005": {
+    "name": "悬浮支架 吊码",
+    "categoryId": "c4",
+    "desc": "",
+    "primary": "slide02_img005.jpg"
+  },
+  "ppt2/slide02_img006": {
+    "name": "黑色重型吊码",
+    "categoryId": "c4",
+    "desc": "",
+    "primary": "slide02_img006.jpg"
+  },
+  "ppt2/slide02_img007": {
+    "name": "白色重型吊码",
+    "categoryId": "c4",
+    "desc": "",
+    "primary": "slide02_img007.jpg"
+  },
+  "ppt2/slide04_img018": {
+    "name": "不锈钢折叠三角支架三色",
+    "categoryId": "c4",
+    "desc": "",
+    "primary": "slide04_img018.jpg"
+  },
+  "ppt2/slide05_img022": {
+    "name": "可折叠置物架",
+    "categoryId": "c4",
+    "desc": "",
+    "primary": "slide05_img022.jpg"
+  },
+  "ppt2/slide06_img025": {
+    "name": "橱柜吊码",
+    "categoryId": "c4",
+    "desc": "",
+    "primary": "slide06_img025.jpg"
+  },
+  "ppt2/slide07_img030": {
+    "name": "吊码",
+    "categoryId": "c4",
+    "desc": "",
+    "primary": "slide07_img030.jpg"
+  },
+  "ppt2/slide07_img031": {
+    "name": "橱柜吊码配套塑料装饰盖",
+    "categoryId": "c4",
+    "desc": "",
+    "primary": "slide07_img031.jpg"
+  },
+  "ppt2/slide08_img033": {
+    "name": "可调节家具支撑脚",
+    "categoryId": "c6",
+    "desc": "",
+    "primary": "slide08_img033.jpg"
+  },
+  "ppt2/slide09_img041": {
+    "name": "隐形拉手铝型材带堵头",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide09_img041.jpg"
+  },
+  "ppt2/slide09_img042": {
+    "name": "隐形拉手铝型材带堵头",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide09_img042.jpg"
+  },
+  "ppt2/slide11_img053": {
+    "name": "ABS橱柜反弹器",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide11_img053.jpg"
+  },
+  "ppt2/slide12_img056": {
+    "name": "反弹器集合",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide12_img056.jpg"
+  },
+  "ppt2/slide13_img059": {
+    "name": "防水垫",
+    "categoryId": "c6",
+    "desc": "",
+    "primary": "slide13_img059.jpg"
+  },
+  "ppt2/slide14_img062": {
+    "name": "防撞角L型",
+    "categoryId": "c6",
+    "desc": "",
+    "primary": "slide14_img062.jpg"
+  },
+  "ppt2/slide14_img063": {
+    "name": "防撞角T型",
+    "categoryId": "c6",
+    "desc": "",
+    "primary": "slide14_img063.jpg"
+  },
+  "ppt2/slide14_img064": {
+    "name": "防撞角圆角型",
+    "categoryId": "c6",
+    "desc": "",
+    "primary": "slide14_img064.jpg"
+  },
+  "ppt2/slide14_img065": {
+    "name": "窗户防撞角",
+    "categoryId": "c6",
+    "desc": "",
+    "primary": "slide14_img065.jpg"
+  },
+  "ppt2/slide14_img066": {
+    "name": "水滴防撞角",
+    "categoryId": "c6",
+    "desc": "",
+    "primary": "slide14_img066.jpg"
+  },
+  "ppt2/slide16_img076": {
+    "name": "防撞角多色",
+    "categoryId": "c6",
+    "desc": "",
+    "primary": "slide16_img076.jpg"
+  },
+  "ppt2/slide18_img087": {
+    "name": "笑脸防撞角",
+    "categoryId": "c6",
+    "desc": "",
+    "primary": "slide18_img087.jpg"
+  },
+  "ppt2/slide19_img091": {
+    "name": "铝合金挂衣杆",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide19_img091.jpg"
+  },
+  "ppt2/slide19_img093": {
+    "name": "挂衣杆",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide19_img093.jpg"
+  },
+  "ppt2/slide19_img094": {
+    "name": "挂衣杆",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide19_img094.jpg"
+  },
+  "ppt2/slide20_img096": {
+    "name": "挂衣杆",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide20_img096.jpg"
+  },
+  "ppt2/slide20_img097": {
+    "name": "方形挂衣杆",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide20_img097.jpg"
+  },
+  "ppt2/slide21_img100": {
+    "name": "心形挂衣杆",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide21_img100.jpg"
+  },
+  "ppt2/slide21_img101": {
+    "name": "挂衣杆配套固定法兰座",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide21_img101.jpg"
+  },
+  "ppt2/slide21_img102": {
+    "name": "挂衣杆配套固定法兰座",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide21_img102.jpg"
+  },
+  "ppt2/slide22_img104": {
+    "name": "方形挂衣杆",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide22_img104.jpg"
+  },
+  "ppt2/slide24_img111": {
+    "name": "衣托法兰座",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide24_img111.jpg"
+  },
+  "ppt2/slide24_img112": {
+    "name": "衣托固定顶装",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide24_img112.jpg"
+  },
+  "ppt2/slide24_img113": {
+    "name": "衣托",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide24_img113.jpg"
+  },
+  "ppt2/slide25_img114": {
+    "name": "衣柜橱柜可调脚柜脚",
+    "categoryId": "c6",
+    "desc": "",
+    "primary": "slide25_img114.jpg"
+  },
+  "ppt2/slide25_img118": {
+    "name": "防滑脚垫柜脚",
+    "categoryId": "c6",
+    "desc": "",
+    "primary": "slide25_img118.jpg"
+  },
+  "ppt2/slide26_img122": {
+    "name": "锌合金翻板合页",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide26_img122.jpg"
+  },
+  "ppt2/slide27_img126": {
+    "name": "活性炭透气网",
+    "categoryId": "c4",
+    "desc": "",
+    "primary": "slide27_img126.jpg"
+  },
+  "ppt2/slide31_img145": {
+    "name": "抽屉锁",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide31_img145.png"
+  },
+  "ppt2/slide31_img146": {
+    "name": "抽屉锁a",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide31_img146.png"
+  },
+  "ppt2/slide31_img147": {
+    "name": "AC锁a",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide31_img147.png"
+  },
+  "ppt2/slide31_img148": {
+    "name": "抽屉锁b",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide31_img148.png"
+  },
+  "ppt2/slide31_img149": {
+    "name": "抽屉锁c",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide31_img149.png"
+  },
+  "ppt2/slide32_img151": {
+    "name": "权和金锁",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide32_img151.png"
+  },
+  "ppt2/slide32_img152": {
+    "name": "高底锁",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide32_img152.png"
+  },
+  "ppt2/slide32_img153": {
+    "name": "AC锁b",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide32_img153.png"
+  },
+  "ppt2/slide32_img154": {
+    "name": "AC锁 鼓胆",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide32_img154.png"
+  },
+  "ppt2/slide33_img156": {
+    "name": "双开门7字锁 ",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide33_img156.png"
+  },
+  "ppt2/slide33_img157": {
+    "name": "抽屉锁",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide33_img157.png"
+  },
+  "ppt2/slide33_img158": {
+    "name": "家具锁",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide33_img158.png"
+  },
+  "ppt2/slide33_img159": {
+    "name": "全合金锁",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide33_img159.png"
+  },
+  "ppt2/slide33_img160": {
+    "name": "厚鼓底磨砂鼓面锁",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide33_img160.png"
+  },
+  "ppt2/slide34_img162": {
+    "name": "薄鼓底磨砂鼓面锁",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide34_img162.png"
+  },
+  "ppt2/slide34_img164": {
+    "name": "抽屉锁",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide34_img164.png"
+  },
+  "ppt2/slide34_img165": {
+    "name": "抽屉锁",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide34_img165.png"
+  },
+  "ppt2/slide34_img166": {
+    "name": "抽屉锁",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide34_img166.png"
+  },
+  "ppt2/slide35_img168": {
+    "name": "全合金锁",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide35_img168.png"
+  },
+  "ppt2/slide35_img169": {
+    "name": "全合金锁",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide35_img169.png"
+  },
+  "ppt2/slide35_img170": {
+    "name": "全合金锁",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide35_img170.png"
+  },
+  "ppt2/slide36_img171": {
+    "name": "隐藏吊码B01",
+    "categoryId": "c4",
+    "desc": "",
+    "primary": "slide36_img171.png"
+  },
+  "ppt2/slide36_img173": {
+    "name": "隐藏吊码B02",
+    "categoryId": "c4",
+    "desc": "",
+    "primary": "slide36_img173.png"
+  },
+  "ppt2/slide36_img175": {
+    "name": "隐藏吊码B03",
+    "categoryId": "c4",
+    "desc": "",
+    "primary": "slide36_img175.png"
+  },
+  "ppt2/slide37_img178": {
+    "name": "透气网5公分宽银色",
+    "categoryId": "c4",
+    "desc": "",
+    "primary": "slide37_img178.jpg"
+  },
+  "ppt2/slide37_img179": {
+    "name": "透气网6公分宽银色",
+    "categoryId": "c4",
+    "desc": "",
+    "primary": "slide37_img179.jpg"
+  },
+  "ppt2/slide37_img180": {
+    "name": "透气网8公分宽银色",
+    "categoryId": "c4",
+    "desc": "",
+    "primary": "slide37_img180.jpg"
+  },
+  "ppt2/slide37_img182": {
+    "name": "60哑黑透气网",
+    "categoryId": "c4",
+    "desc": "",
+    "primary": "slide37_img182.jpg"
+  },
+  "ppt2/slide38_img185": {
+    "name": "毛边穿插13x6 200x4",
+    "categoryId": "c3",
+    "desc": "",
+    "primary": "slide38_img185.jpg"
+  },
+  "ppt2/slide38_img187": {
+    "name": "毛边 9x5高级喷胶 200x4",
+    "categoryId": "c3",
+    "desc": "",
+    "primary": "slide38_img187.jpg"
+  },
+  "ppt2/slide38_img188": {
+    "name": "毛边穿插13x6 200x4",
+    "categoryId": "c3",
+    "desc": "",
+    "primary": "slide38_img188.jpg"
+  },
+  "ppt2/slide39_img192": {
+    "name": "螺母 8x20大介 介面25",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide39_img192.jpg"
+  },
+  "ppt2/slide39_img193": {
+    "name": "螺母 8x20大介",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide39_img193.jpg"
+  },
+  "ppt2/slide39_img194": {
+    "name": "螺母 6x18大介",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide39_img194.jpg"
+  },
+  "ppt2/slide39_img195": {
+    "name": "螺母 6x15大介 介面16",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide39_img195.jpg"
+  },
+  "ppt2/slide39_img196": {
+    "name": "螺母 8x18大介",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide39_img196.jpg"
+  },
+  "ppt2/slide39_img197": {
+    "name": "螺母 8x18大介 介面25",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide39_img197.jpg"
+  },
+  "ppt2/slide40_img199": {
+    "name": "螺母 8x15大介",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide40_img199.jpg"
+  },
+  "ppt2/slide40_img200": {
+    "name": "螺母 8x25大介",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide40_img200.jpg"
+  },
+  "ppt2/slide41_img202": {
+    "name": "快装杆",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide41_img202.jpg"
+  },
+  "ppt2/slide41_img203": {
+    "name": "快装杆",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide41_img203.jpg"
+  },
+  "ppt2/slide41_img205": {
+    "name": "快装杆",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide41_img205.jpg"
+  },
+  "ppt2/slide42_img208": {
+    "name": "快装杆",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide42_img208.jpg"
+  },
+  "ppt2/slide42_img209": {
+    "name": "快装杆",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide42_img209.jpg"
+  },
+  "ppt2/slide43_img212": {
+    "name": "拉直器 VF款哑深香槟",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide43_img212.jpg"
+  },
+  "ppt2/slide43_img213": {
+    "name": "拉直器 哑深香槟",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide43_img213.jpg"
+  },
+  "ppt2/slide43_img214": {
+    "name": "拉直器 哑银",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide43_img214.jpg"
+  },
+  "ppt2/slide43_img215": {
+    "name": "拉直器 猫头鹰款",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide43_img215.jpg"
+  },
+  "ppt2/slide44_img217": {
+    "name": "拉直器 极简款",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide44_img217.jpg"
+  },
+  "ppt2/slide44_img218": {
+    "name": "拉直器 铁灰",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide44_img218.jpg"
+  },
+  "ppt2/slide44_img219": {
+    "name": "拉直器",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide44_img219.jpg"
+  },
+  "ppt2/slide45_img222": {
+    "name": "拉直器 哑金",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide45_img222.jpg"
+  },
+  "ppt2/slide45_img223": {
+    "name": "拉直器 普通款2m白色",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide45_img223.jpg"
+  },
+  "ppt2/slide45_img224": {
+    "name": "拉直器 香槟金",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide45_img224.jpg"
+  },
+  "ppt2/slide45_img225": {
+    "name": "拉直器 喷白",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide45_img225.jpg"
+  },
+  "ppt2/slide45_img226": {
+    "name": "拉直器 钛金",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide45_img226.jpg"
+  },
+  "ppt2/slide46_img228": {
+    "name": "拉直器 老款",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide46_img228.jpg"
+  },
+  "ppt2/slide46_img231": {
+    "name": "拉直器 VF款哑黑",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide46_img231.jpg"
+  },
+  "ppt2/slide47_img233": {
+    "name": "拉直器 极简款钛金",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide47_img233.jpg"
+  },
+  "ppt2/slide47_img235": {
+    "name": "拉直器 哑黑",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide47_img235.jpg"
+  },
+  "ppt3/slide02_img004": {
+    "name": "拉直器 极简款",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide02_img004.jpg"
+  },
+  "ppt3/slide02_img005": {
+    "name": "拉直器 VF款香槟金",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide02_img005.jpg"
+  },
+  "ppt3/slide02_img006": {
+    "name": "拉直器 极简款哑黑",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide02_img006.jpg"
+  },
+  "ppt3/slide03_img008": {
+    "name": "拉直器 VF款铁灰",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide03_img008.jpg"
+  },
+  "ppt3/slide03_img009": {
+    "name": "拉直器 VF款威法金",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide03_img009.jpg"
+  },
+  "ppt3/slide04_img011": {
+    "name": "高强度纤维板钉",
+    "categoryId": "c1",
+    "desc": "榻榻米",
+    "primary": "slide04_img011.jpg"
+  },
+  "ppt3/slide04_img012": {
+    "name": "榻榻米支撑",
+    "categoryId": "c1",
+    "desc": "榻榻米",
+    "primary": "slide04_img012.jpg"
+  },
+  "ppt3/slide05_img014": {
+    "name": "铁衣架",
+    "categoryId": "c5",
+    "desc": "铁鞋架 | 伸宿衣架",
+    "primary": "slide05_img014.jpg"
+  },
+  "ppt3/slide05_img015": {
+    "name": "铁衣架",
+    "categoryId": "c5",
+    "desc": "铁鞋架 | 伸宿衣架",
+    "primary": "slide05_img015.jpg"
+  },
+  "ppt3/slide05_img016": {
+    "name": "伸缩衣架",
+    "categoryId": "c5",
+    "desc": "铁鞋架 | 伸宿衣架",
+    "primary": "slide05_img016.jpg"
+  },
+  "ppt3/slide06_img018": {
+    "name": "蛇形管方",
+    "categoryId": "c4",
+    "desc": "",
+    "primary": "slide06_img018.jpg"
+  },
+  "ppt3/slide06_img019": {
+    "name": "蛇形管圆",
+    "categoryId": "c4",
+    "desc": "",
+    "primary": "slide06_img019.jpg"
+  },
+  "ppt3/slide07_img021": {
+    "name": "三合一连接杆",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide07_img021.jpg"
+  },
+  "ppt3/slide08_img022": {
+    "name": "三合一连接杆",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide08_img022.jpg"
+  },
+  "ppt3/slide10_img027": {
+    "name": "三合一暗藏层板托",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide10_img028": {
+    "name": "三合一暗藏层板托",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide11_img029": {
+    "name": "二合一层板托",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide11_img030": {
+    "name": "双控三合一层板托",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide11_img031": {
+    "name": "三合一层板托镀锌/镀镍",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide12_img032": {
+    "name": "加厚三合一层板托镀镍",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide12_img033": {
+    "name": "粗牙十字底三合一层板托镀镍",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide12_img034": {
+    "name": "粗牙\t三合一层板托 镀镍",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide13_img035": {
+    "name": "四合一层板托",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide13_img036": {
+    "name": "合金三合一层板托",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide13_img037": {
+    "name": "板托螺丝（四个长度可选）",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide14_img038": {
+    "name": "带轴层板托",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide14_img040": {
+    "name": "带轴层板托",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide15_img041": {
+    "name": "乒乓层板托",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide15_img043": {
+    "name": "吸盘式玻璃层板托",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide16_img044": {
+    "name": "合金吸盘板托",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide16_img044.png"
+  },
+  "ppt3/slide16_img045": {
+    "name": "一字光身板托",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide16_img045.png"
+  },
+  "ppt3/slide16_img046": {
+    "name": "中轴层板托",
+    "categoryId": "c1",
+    "desc": "9mm | 8mm | 6mm | 薄 | 中厚 | 直角 | 加厚 | 心型",
+    "primary": "slide16_img046.png"
+  },
+  "ppt3/slide16_img047": {
+    "name": "带胶套防滑层板托",
+    "categoryId": "c1",
+    "desc": "9mm | 8mm | 6mm | 薄 | 中厚 | 直角 | 加厚 | 心型",
+    "primary": "slide16_img047.png"
+  },
+  "ppt3/slide16_img048": {
+    "name": "七字型层板",
+    "categoryId": "c1",
+    "desc": "9mm | 8mm | 6mm | 薄 | 中厚 | 直角 | 加厚 | 心型",
+    "primary": "slide16_img048.png"
+  },
+  "ppt3/slide16_img049": {
+    "name": "直杆二合一板托",
+    "categoryId": "c1",
+    "desc": "9mm | 8mm | 6mm | 薄 | 中厚 | 直角 | 加厚 | 心型",
+    "primary": "slide16_img049.png"
+  },
+  "ppt3/slide17_img052": {
+    "name": "玻璃吸盘板托",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide17_img052.png"
+  },
+  "ppt3/slide17_img055": {
+    "name": "塑料层板托",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide17_img055.png"
+  },
+  "ppt3/slide17_img056": {
+    "name": "自攻螺丝层板托",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide17_img056.png"
+  },
+  "ppt3/slide17_img057": {
+    "name": "夹板螺丝",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide17_img057.png"
+  },
+  "ppt3/slide17_img058": {
+    "name": "玻璃扣",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide17_img058.jpg"
+  },
+  "ppt3/slide18_img059": {
+    "name": "不锈钢角码",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide18_img059.png"
+  },
+  "ppt3/slide18_img060": {
+    "name": "背板扣塑料角码",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide18_img060.png"
+  },
+  "ppt3/slide18_img061": {
+    "name": "5厘机丝铁角码",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide18_img061.png"
+  },
+  "ppt3/slide18_img062": {
+    "name": "加厚双孔大塞角",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide18_img062.png"
+  },
+  "ppt3/slide18_img063": {
+    "name": "L型直角角码",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide18_img063.png"
+  },
+  "ppt3/slide18_img064": {
+    "name": "L型圆角角码",
+    "categoryId": "c1",
+    "desc": "",
+    "primary": "slide18_img064.png"
+  },
+  "ppt3/slide19_img065": {
+    "name": "二合一橱柜挂码",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide19_img066": {
+    "name": "床角撑",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide19_img068": {
+    "name": "二合一橱柜挂码",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide19_img071": {
+    "name": "带盖塑料角码",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide19_img072": {
+    "name": "塑料角码",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide20_img074": {
+    "name": "电脑键盘托架",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide20_img074.png"
+  },
+  "ppt3/slide20_img075": {
+    "name": "电脑键盘托架",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide20_img075.png"
+  },
+  "ppt3/slide20_img078": {
+    "name": "键盘托架滑轨",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide20_img078.png"
+  },
+  "ppt3/slide20_img079": {
+    "name": "电脑键盘托架",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide20_img079.png"
+  },
+  "ppt3/slide21_img080": {
+    "name": "电脑桌合金穿线盒",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide21_img081": {
+    "name": "加厚塑料线盒",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide21_img082": {
+    "name": "塑料穿线盒",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide21_img084": {
+    "name": "椭圆形桌面穿线孔盖",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide21_img085": {
+    "name": "桌面大电脑穿线盒",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide22_img087": {
+    "name": "家具用圆形塑料孔塞",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide22_img087.png"
+  },
+  "ppt3/slide22_img088": {
+    "name": "家具孔塞系列",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide22_img088.png"
+  },
+  "ppt3/slide22_img089": {
+    "name": "家具孔塞系列",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide22_img089.png"
+  },
+  "ppt3/slide22_img090": {
+    "name": "家具孔塞系列",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide22_img090.png"
+  },
+  "ppt3/slide23_img091": {
+    "name": "家具孔塞系列",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide23_img092": {
+    "name": "家具孔塞系列",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide23_img093": {
+    "name": "家具孔塞系列",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide24_img094": {
+    "name": "三合一盖十字款",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide24_img096": {
+    "name": "三合一盖圆孔款",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide24_img098": {
+    "name": "三合一盖加长款",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide24_img099": {
+    "name": "三合一盖加长款",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide25_img101": {
+    "name": "家具透明软胶塞",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide25_img103": {
+    "name": "家具防滑增高脚垫",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide25_img104": {
+    "name": "连体螺丝自攻盖",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide25_img106": {
+    "name": "十字三合一装饰盖",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide26_img107": {
+    "name": "镀彩十字机兰螺丝",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide26_img108": {
+    "name": "镀彩十字沉头自攻螺丝",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide26_img109": {
+    "name": "家具水晶防尘角粒",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide27_img111": {
+    "name": "塑料下水口圈双圈套",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide27_img112": {
+    "name": "塑料下水口圈单圈套",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide28_img113": {
+    "name": "塑料膨胀管与自攻螺丝组合件",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide29_img116": {
+    "name": "隐形挂片",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide29_img117": {
+    "name": "圆木榫 木栓 木销",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide29_img118": {
+    "name": "实心铝饼",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide30_img120": {
+    "name": "不锈钢/铁柜门免拉手",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide30_img120.png"
+  },
+  "ppt3/slide30_img121": {
+    "name": "免拉手柜门碰珠",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide30_img121.png"
+  },
+  "ppt3/slide30_img122": {
+    "name": "按压式柜门反弹器",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide30_img122.png"
+  },
+  "ppt3/slide30_img123": {
+    "name": "太空铝哑光拉手",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide30_img123.png"
+  },
+  "ppt3/slide30_img124": {
+    "name": "太空铝拉手",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide30_img124.png"
+  },
+  "ppt3/slide30_img125": {
+    "name": "按压式柜门反弹器组件",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide30_img125.png"
+  },
+  "ppt3/slide30_img126": {
+    "name": "柜门缓冲器",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide30_img126.png"
+  },
+  "ppt3/slide30_img127": {
+    "name": "飞机阻尼器",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide30_img127.png"
+  },
+  "ppt3/slide31_img128": {
+    "name": "大号合金衣钩 ",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide31_img128.png"
+  },
+  "ppt3/slide31_img129": {
+    "name": "衣钩",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide31_img129.png"
+  },
+  "ppt3/slide31_img130": {
+    "name": "双头衣钩",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide31_img130.png"
+  },
+  "ppt3/slide31_img131": {
+    "name": "双层衣钩",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide31_img131.png"
+  },
+  "ppt3/slide31_img132": {
+    "name": "双层衣钩",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide31_img132.png"
+  },
+  "ppt3/slide31_img133": {
+    "name": "不锈钢门后挂钩",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide31_img133.png"
+  },
+  "ppt3/slide32_img134": {
+    "name": "衣柜衣座系列",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide32_img134.png"
+  },
+  "ppt3/slide32_img135": {
+    "name": "加厚二合一法兰座",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide32_img135.png"
+  },
+  "ppt3/slide33_img141": {
+    "name": "衣座&衣杆系列",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide33_img141.png"
+  },
+  "ppt3/slide33_img142": {
+    "name": "衣座&衣杆系列",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide33_img142.png"
+  },
+  "ppt3/slide34_img144": {
+    "name": "柜脚系列",
+    "categoryId": "c6",
+    "desc": "",
+    "primary": "slide34_img144.png"
+  },
+  "ppt3/slide34_img145": {
+    "name": "柜脚系列",
+    "categoryId": "c6",
+    "desc": "",
+    "primary": "slide34_img145.png"
+  },
+  "ppt3/slide34_img146": {
+    "name": "柜脚系列",
+    "categoryId": "c6",
+    "desc": "",
+    "primary": "slide34_img146.png"
+  },
+  "ppt3/slide34_img147": {
+    "name": "柜脚系列",
+    "categoryId": "c6",
+    "desc": "",
+    "primary": "slide34_img147.png"
+  },
+  "ppt3/slide34_img148": {
+    "name": "柜脚系列",
+    "categoryId": "c6",
+    "desc": "",
+    "primary": "slide34_img148.png"
+  },
+  "ppt3/slide34_img149": {
+    "name": "柜脚系列",
+    "categoryId": "c6",
+    "desc": "",
+    "primary": "slide34_img149.png"
+  },
+  "ppt3/slide34_img150": {
+    "name": "柜脚系列",
+    "categoryId": "c6",
+    "desc": "",
+    "primary": "slide34_img150.png"
+  },
+  "ppt3/slide34_img151": {
+    "name": "柜脚系列",
+    "categoryId": "c6",
+    "desc": "",
+    "primary": "slide34_img151.png"
+  },
+  "ppt3/slide35_img152": {
+    "name": "6寸定位拉杆",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide35_img152.png"
+  },
+  "ppt3/slide35_img153": {
+    "name": "橱柜吊码",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide35_img153.png"
+  },
+  "ppt3/slide35_img154": {
+    "name": "橱柜上翻门随意停支撑杆",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide35_img154.png"
+  },
+  "ppt3/slide35_img155": {
+    "name": "鞋柜翻斗翻转架五金配件",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide35_img155.png"
+  },
+  "ppt3/slide36_img156": {
+    "name": "家具地脚钉",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide36_img157": {
+    "name": "家具地脚钉",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide36_img158": {
+    "name": "家具地脚钉",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide36_img159": {
+    "name": "家具双脚钉",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide37_img162": {
+    "name": "家具配件",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide37_img162.png"
+  },
+  "ppt3/slide37_img163": {
+    "name": "塑料弹簧插销",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide37_img163.png"
+  },
+  "ppt3/slide37_img165": {
+    "name": "七字锁舌",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide37_img165.png"
+  },
+  "ppt3/slide37_img166": {
+    "name": " 三合一连接件",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide37_img166.png"
+  },
+  "ppt3/slide37_img167": {
+    "name": "白色塑料膨胀管",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide37_img167.png"
+  },
+  "ppt3/slide37_img168": {
+    "name": "塑料膨胀螺丝",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide37_img168.png"
+  },
+  "ppt3/slide37_img169": {
+    "name": "塑料膨胀螺丝",
+    "categoryId": "c7",
+    "desc": "",
+    "primary": "slide37_img169.png"
+  },
+  "ppt3/slide38_img170": {
+    "name": "不锈钢镜钉",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide38_img171": {
+    "name": "不锈钢镜钉",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide38_img172": {
+    "name": "塑料锤头螺母",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide38_img173": {
+    "name": "不锈钢广告钉",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide38_img174": {
+    "name": "内外牙螺母",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide38_img175": {
+    "name": "四爪螺母",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide38_img176": {
+    "name": "锤仔螺母",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide38_img177": {
+    "name": "对锁螺丝",
+    "categoryId": "c1",
+    "desc": ""
+  },
+  "ppt3/slide39_img178": {
+    "name": "长方形铝合金透气网",
+    "categoryId": "c4",
+    "desc": "",
+    "primary": "slide39_img178.png"
+  },
+  "ppt3/slide39_img179": {
+    "name": "电脑主机透气网",
+    "categoryId": "c4",
+    "desc": "",
+    "primary": "slide39_img179.png"
+  },
+  "ppt3/slide39_img180": {
+    "name": "不锈钢双面透气孔",
+    "categoryId": "c4",
+    "desc": "",
+    "primary": "slide39_img180.png"
+  },
+  "ppt3/slide39_img181": {
+    "name": "不锈钢透气孔",
+    "categoryId": "c4",
+    "desc": "",
+    "primary": "slide39_img181.png"
+  },
+  "ppt3/slide40_img184": {
+    "name": "家具脚轮",
+    "categoryId": "c3",
+    "desc": "",
+    "primary": "slide40_img184.png"
+  },
+  "ppt3/slide40_img185": {
+    "name": "家具脚轮",
+    "categoryId": "c3",
+    "desc": "",
+    "primary": "slide40_img185.png"
+  },
+  "ppt3/slide40_img186": {
+    "name": "家具脚轮",
+    "categoryId": "c3",
+    "desc": "",
+    "primary": "slide40_img186.png"
+  },
+  "ppt3/slide40_img187": {
+    "name": "家具脚",
+    "categoryId": "c3",
+    "desc": "",
+    "primary": "slide40_img187.png"
+  },
+  "ppt3/slide40_img188": {
+    "name": "家具脚轮",
+    "categoryId": "c3",
+    "desc": "",
+    "primary": "slide40_img188.png"
+  },
+  "ppt3/slide40_img189": {
+    "name": "家具脚轮",
+    "categoryId": "c3",
+    "desc": "",
+    "primary": "slide40_img189.png"
+  },
+  "ppt4/slide02_img005": {
+    "name": "PU-包塑海绵密封条",
+    "categoryId": "c3",
+    "desc": "",
+    "primary": "slide02_img005.jpg"
+  },
+  "ppt4/slide03_img008": {
+    "name": "防水合页孔塞底座",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide03_img008.jpg"
+  },
+  "ppt4/slide04_img015": {
+    "name": "酒杯架 3-4杯",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide04_img015.jpg"
+  },
+  "ppt4/slide04_img016": {
+    "name": "酒杯架 6-9杯",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide04_img016.jpg"
+  },
+  "ppt4/slide04_img017": {
+    "name": "酒杯架 9-12杯",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide04_img017.jpg"
+  },
+  "ppt4/slide04_img018": {
+    "name": "酒杯架 4-6杯",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide04_img018.jpg"
+  },
+  "ppt4/slide04_img019": {
+    "name": "酒杯架 2-3杯",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide04_img019.jpg"
+  },
+  "ppt4/slide04_img020": {
+    "name": "酒杯架 6-9杯",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide04_img020.jpg"
+  },
+  "ppt4/slide08_img036": {
+    "name": "酒杯架",
+    "categoryId": "c5",
+    "desc": "",
+    "primary": "slide08_img036.jpg"
+  },
+  "ppt4/slide10_img042": {
+    "name": "隐藏胶链",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide10_img042.jpg"
+  },
+  "ppt4/slide10_img043": {
+    "name": "隐藏胶链",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide10_img043.jpg"
+  },
+  "ppt4/slide11_img049": {
+    "name": "隐藏胶链",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide11_img049.jpg"
+  },
+  "ppt4/slide12_img051": {
+    "name": "十字胶",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide12_img051.jpg"
+  },
+  "ppt4/slide12_img052": {
+    "name": "十字胶",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide12_img052.jpg"
+  },
+  "ppt4/slide12_img053": {
+    "name": "十字胶",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide12_img053.jpg"
+  },
+  "ppt4/slide12_img054": {
+    "name": "十字胶",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide12_img054.jpg"
+  },
+  "ppt4/slide12_img055": {
+    "name": "十字胶",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide12_img055.jpg"
+  },
+  "ppt4/slide12_img056": {
+    "name": "十字胶",
+    "categoryId": "c2",
+    "desc": "",
+    "primary": "slide12_img056.jpg"
+  },
+  "ppt4/slide13_img060": {
+    "name": "家具防滑垫",
+    "categoryId": "c6",
+    "desc": "",
+    "primary": "slide13_img060.jpg"
+  },
+  "ppt4/slide13_img061": {
+    "name": "家具防滑垫 带介款",
+    "categoryId": "c6",
+    "desc": "",
+    "primary": "slide13_img061.jpg"
+  },
+  "ppt4/slide13_img062": {
+    "name": "家具防滑垫 无介款",
+    "categoryId": "c6",
+    "desc": "",
+    "primary": "slide13_img062.jpg"
+  },
+  "ppt4/slide14_img067": {
+    "name": "透明橡胶家具脚垫",
+    "categoryId": "c6",
+    "desc": "",
+    "primary": "slide14_img067.jpg"
+  }
+}
