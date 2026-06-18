@@ -5,12 +5,6 @@ import { fileURLToPath, URL } from 'node:url'
 export default defineConfig({
   plugins: [
     vue(),
-    {
-      name: 'remove-crossorigin',
-      transformIndexHtml(html) {
-        return html.replace(/\s+crossorigin/g, '')
-      },
-    },
   ],
   base: '/',
   server: {
