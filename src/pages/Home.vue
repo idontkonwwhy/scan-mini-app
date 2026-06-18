@@ -42,7 +42,7 @@ function goDetail(product) {
     <!-- Header -->
     <header class="home-header">
       <span class="home-title">五金目录</span>
-      <button class="search-btn" @click="showSearch = !showSearch">&#x1F50D;</button>
+      <button type="button" class="search-btn" @click="showSearch = !showSearch">&#x1F50D;</button>
     </header>
 
     <!-- Search bar -->
@@ -54,7 +54,7 @@ function goDetail(product) {
         placeholder="搜索配件名称..."
         autofocus
       />
-      <button v-if="searchKeyword" class="search-clear" @click="searchKeyword = ''">
+      <button v-if="searchKeyword" type="button" class="search-clear" @click="searchKeyword = ''">
         &#x2715;
       </button>
     </div>
@@ -191,7 +191,7 @@ function goDetail(product) {
   white-space: nowrap;
   cursor: pointer;
   flex-shrink: 0;
-  transition: all 180ms ease-out;
+  transition: background-color 180ms ease-out, color 180ms ease-out;
 }
 
 .chip--active {
