@@ -1,0 +1,1094 @@
+[
+  {
+    "id": "p1",
+    "categoryId": "c1",
+    "name": "新款三合一锁扣配盖",
+    "image": "/images/xinkuansanheyisuokoupeigai.jpg",
+    "desc": "枪黑: 12厘/15厘；开孔: 12mm直径，重量: 3.75g/套；开孔: 15mm直径，重量: 5.65g/套",
+    "variants": [
+      {
+        "id": "v1",
+        "label": "新款三合一锁扣配盖",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p2",
+    "categoryId": "c1",
+    "name": "12x12.5三合一锁扣",
+    "image": "/images/12x12.5sanheyisuokou.png",
+    "desc": "12厘枪黑锁扣配塑料盖；开孔直径: 12mm",
+    "variants": [
+      {
+        "id": "v2",
+        "label": "12x12.5三合一锁扣",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p3",
+    "categoryId": "c1",
+    "name": "新款简易三合一板托",
+    "image": "/images/xinkuanjianyisanheyibantuo.png",
+    "desc": "枪黑色、白镍色；开孔直径: 18mm",
+    "variants": [
+      {
+        "id": "v3",
+        "label": "新款简易三合一板托",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p4",
+    "categoryId": "c1",
+    "name": "12厘新款二合一板托",
+    "image": "/images/12lixinkuanerheyibantuo.jpg",
+    "desc": "包含长方盖、小方盖、粗牙螺丝",
+    "variants": [
+      {
+        "id": "v4",
+        "label": "12厘新款二合一板托",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p5",
+    "categoryId": "c1",
+    "name": "半圆板托（12厘/15厘/18厘）",
+    "image": "/images/bantuoluosi.jpg",
+    "desc": "12厘半圆板托镍 重量约4.5g/套；15厘半圆板托镍 约6g/套；18厘半圆板托真镍 约7.2g/套；多种颜色可选",
+    "variants": [
+      {
+        "id": "v5",
+        "label": "半圆板托（12厘/15厘/18厘）",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p6",
+    "categoryId": "c1",
+    "name": "方板托（12厘/15厘/18厘）",
+    "image": "/images/XSFfanghuakelibantuo.png",
+    "desc": "12厘方板托镍 重量约4.7g/套；15厘方板托镍 约6.3g/套；18厘方板托真镍 约7.4g/套；多种颜色可选",
+    "variants": [
+      {
+        "id": "v6",
+        "label": "方板托（12厘/15厘/18厘）",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p7",
+    "categoryId": "c1",
+    "name": "12厘长方盖",
+    "image": "/images/12lichangfanggai.jpg",
+    "desc": "尺寸：12.4mm × 21.5mm × 12mm；重量: 5.84g/套",
+    "variants": [
+      {
+        "id": "v7",
+        "label": "12厘长方盖",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p8",
+    "categoryId": "c1",
+    "name": "XSF防滑颗粒板托",
+    "image": "/images/XSFfanghuakelibantuo.png",
+    "desc": "型号齐全：5x15无介、5x15有介、5x16有介、5x20无介、5x20有介、5x20有介平尾、5x22无介、6x20无介、6x20有介平尾、6x22无介、6x25有介",
+    "variants": [
+      {
+        "id": "v8",
+        "label": "XSF防滑颗粒板托",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p9",
+    "categoryId": "c1",
+    "name": "兴盛发三合一轮",
+    "image": "/images/xingshengfasanheyilun.jpg",
+    "desc": "多种款式：XSF偏心、XSF花标、XSF箭头、XSF393、XSF箭头E3、XSF1518带介、XSF1518无介",
+    "variants": [
+      {
+        "id": "v9",
+        "label": "兴盛发三合一轮",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p10",
+    "categoryId": "c1",
+    "name": "XSF快装杆",
+    "image": "/images/XSFkuaizhuanggan.jpg",
+    "desc": "规格：993 200mm、1405 mm、100 mm；活动快装杆四瓣开口、两瓣开口",
+    "variants": [
+      {
+        "id": "v10",
+        "label": "XSF快装杆",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p11",
+    "categoryId": "c1",
+    "name": "XSF纤维板钉",
+    "image": "/images/XSFxianweibanding.jpg",
+    "desc": "规格：M3.5x12 至 M3.5x45；M4x16 至 M4x50；M5x40、M5x50、M5x60",
+    "variants": [
+      {
+        "id": "v11",
+        "label": "XSF纤维板钉",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p12",
+    "categoryId": "c1",
+    "name": "连接杆展示",
+    "image": "/images/lianjieganzhanshi.png",
+    "desc": "展示多种连接杆类型，包括 eccentric wheel display",
+    "variants": [
+      {
+        "id": "v12",
+        "label": "连接杆展示",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p13",
+    "categoryId": "c1",
+    "name": "预埋件展示",
+    "image": "/images/yumaijianzhanshi.jpg",
+    "desc": "包括 pp塑料/尼龙不开口胶粒、开口胶粒、连排开口胶粒、快装两瓣预埋、快装四瓣预埋、锌合金膨胀彩等",
+    "variants": [
+      {
+        "id": "v13",
+        "label": "预埋件展示",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p14",
+    "categoryId": "c1",
+    "name": "三合一暗藏层板托",
+    "image": "/images/sanheyiancangcengbantuo.jpg",
+    "desc": "多种款式可选，包括黑色、白色、加厚、粗牙等；开孔直径: 20MM；重量从3.31g至14.8g/套不等",
+    "variants": [
+      {
+        "id": "v14",
+        "label": "三合一暗藏层板托",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p15",
+    "categoryId": "c1",
+    "name": "板托螺丝",
+    "image": "/images/bantuoluosi.jpg",
+    "desc": "四个长度可选：16mm机丝、16mm自攻、17mm自攻、18mm自攻",
+    "variants": [
+      {
+        "id": "v15",
+        "label": "板托螺丝",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p16",
+    "categoryId": "c1",
+    "name": "隔板托",
+    "image": "/images/gebantuo.jpg",
+    "desc": "一字光身板托，不锈钢/铁材质，大号、中号、小号；尺寸多样",
+    "variants": [
+      {
+        "id": "v16",
+        "label": "隔板托",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p17",
+    "categoryId": "c1",
+    "name": "合金吸盘板托",
+    "image": "/images/hejinxipanbantuo.jpg",
+    "desc": "优选锌合金材质，多款可选：薄、中厚、直角、心型、加厚；5厘、6厘",
+    "variants": [
+      {
+        "id": "v17",
+        "label": "合金吸盘板托",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p18",
+    "categoryId": "c1",
+    "name": "直杆二合一板托",
+    "image": "/images/zhiganerheyibantuo.jpg",
+    "desc": "自家工厂PP材质，量大从优，开孔15mm",
+    "variants": [
+      {
+        "id": "v18",
+        "label": "直杆二合一板托",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p19",
+    "categoryId": "c1",
+    "name": "XSF玻璃扣",
+    "image": "/images/XSFbolikou.png",
+    "desc": "5mm玻璃吸盘板托，透明和白色可选",
+    "variants": [
+      {
+        "id": "v19",
+        "label": "XSF玻璃扣",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p20",
+    "categoryId": "c1",
+    "name": "三合一盖",
+    "image": "/images/sanheyigai.jpg",
+    "desc": "十字常规款、圆孔款、加长款；颜色：黑色、浅灰色、深灰色、桔黄色、深棕色、白色、米黄色、米白色、红棕色等；重量：0.2g、0.29g；总高度：4.5mm、5.4mm、6.7mm",
+    "variants": [
+      {
+        "id": "v20",
+        "label": "三合一盖",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p21",
+    "categoryId": "c1",
+    "name": "十字三合一装饰盖",
+    "image": "/images/shizisanheyizhuangshigai.jpg",
+    "desc": "十色可选，十字脚，货源充足",
+    "variants": [
+      {
+        "id": "v21",
+        "label": "十字三合一装饰盖",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p22",
+    "categoryId": "c1",
+    "name": "十字自攻螺丝盖",
+    "image": "/images/shizizigongluosigai.jpg",
+    "desc": "可定做颜色，17色可选，厂家直销",
+    "variants": [
+      {
+        "id": "v22",
+        "label": "十字自攻螺丝盖",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p23",
+    "categoryId": "c1",
+    "name": "家具透明软胶塞",
+    "image": "/images/jiajutoumingruanjiaosai.jpg",
+    "desc": "透明软胶，规格齐全，厂家直供",
+    "variants": [
+      {
+        "id": "v23",
+        "label": "家具透明软胶塞",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p24",
+    "categoryId": "c1",
+    "name": "连体螺丝自攻盖",
+    "image": "/images/liantiluosizigonggai.jpg",
+    "desc": "连体盖帽，颜色多样，厂家直销",
+    "variants": [
+      {
+        "id": "v24",
+        "label": "连体螺丝自攻盖",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p25",
+    "categoryId": "c2",
+    "name": "XSF胶链",
+    "image": "/images/XSFjiaolian.jpg",
+    "desc": "多种型号：XSF661直、中、大；XSF161直、中、大；XSF105不锈钢缓冲胶链；XSF113缓冲胶链；XSF165度缓冲胶链；玻璃门缓冲胶链；不锈钢缓冲胶钅；短臂缓冲胶链；多角度胶键；缓冲弹子胶；铝框缓冲胶键；枪黑铝框胶链；无弹力胶链",
+    "variants": [
+      {
+        "id": "v25",
+        "label": "XSF胶链",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p26",
+    "categoryId": "c2",
+    "name": "XSF胶链灯",
+    "image": "/images/XSFjiaoliandeng.jpg",
+    "desc": "LED照明功能的胶链组件",
+    "variants": [
+      {
+        "id": "v26",
+        "label": "XSF胶链灯",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p27",
+    "categoryId": "c2",
+    "name": "XSF合页",
+    "image": "/images/XSFheye.jpg",
+    "desc": "锌合金合页，光滑表面彰显质感；多种颜色可选；翻板合页多种规格；配件齐全，开合顺畅",
+    "variants": [
+      {
+        "id": "v27",
+        "label": "XSF合页",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p28",
+    "categoryId": "c2",
+    "name": "XSF合页孔塞",
+    "image": "/images/XSFheyekongsai.jpg",
+    "desc": "防水合页孔塞底座，用于合页铰链孔安装",
+    "variants": [
+      {
+        "id": "v28",
+        "label": "XSF合页孔塞",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p29",
+    "categoryId": "c2",
+    "name": "XSF隐藏胶链",
+    "image": "/images/XSFyincangjiaolian.jpg",
+    "desc": "隐藏式设计的胶链组件",
+    "variants": [
+      {
+        "id": "v29",
+        "label": "XSF隐藏胶链",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p30",
+    "categoryId": "c2",
+    "name": "XSF十字胶",
+    "image": "/images/XSFshizijiao.jpg",
+    "desc": "十字形胶粘组件",
+    "variants": [
+      {
+        "id": "v30",
+        "label": "XSF十字胶",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p31",
+    "categoryId": "c3",
+    "name": "XSF二折隐藏反弹滑轨",
+    "image": "/images/XSF二折隐藏反弹滑轨.png",
+    "desc": "隐藏式设计，具备反弹功能的二折滑轨",
+    "variants": [
+      {
+        "id": "v31",
+        "label": "XSF二折隐藏反弹滑轨",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p32",
+    "categoryId": "c3",
+    "name": "XSF二折隐藏缓冲滑轨",
+    "image": "/images/XSF二折隐藏缓冲滑轨.png",
+    "desc": "隐藏式设计，具备缓冲功能的二折滑轨",
+    "variants": [
+      {
+        "id": "v32",
+        "label": "XSF二折隐藏缓冲滑轨",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p33",
+    "categoryId": "c3",
+    "name": "XSF板托销",
+    "image": "/images/XSFbantuoxiao.jpg",
+    "desc": "暗藏层板托，简约美观，承重力强；适用规格：12x120（适用于20mm以上木板）、14x140（适用于30mm以上木板）、10x100（适用于15mm以上木板）、10x145（适用于15mm以上木板）；墙壁开孔12mm/深度73-75mm，钻头用12x150mm；木板开孔对应尺寸及10x230mm钻头",
+    "variants": [
+      {
+        "id": "v33",
+        "label": "XSF板托销",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p34",
+    "categoryId": "c3",
+    "name": "塑料电脑键盘托",
+    "image": "/images/suliaodiannaojianpantuo.jpg",
+    "desc": "ABS加厚材质，时尚简洁，安装简便；人性化笔盒设计，可调式卡扣",
+    "variants": [
+      {
+        "id": "v34",
+        "label": "塑料电脑键盘托",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p35",
+    "categoryId": "c3",
+    "name": "电脑键盘托架",
+    "image": "/images/diannaojianpantuojia.jpg",
+    "desc": "35宽键盘托架滑轨，镀锌/镀黑两款，冷轧钢材质，带胶头，配件齐全",
+    "variants": [
+      {
+        "id": "v35",
+        "label": "电脑键盘托架",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p36",
+    "categoryId": "c4",
+    "name": "XSF吊码 (8101214寸)",
+    "image": "/images/XSFdiaoma (8101214cun).jpg",
+    "desc": "L型重吊码支架托架，承重: 350kg，颜色：黑色；悬浮支架，承重: 250kg，颜色：沙黑；尺寸：310×80×48mm（重量1078克/付），220×80×48mm（重量880克/付）；箱规: 25付/箱",
+    "variants": [
+      {
+        "id": "v36",
+        "label": "XSF吊码 (8101214寸)",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p37",
+    "categoryId": "c4",
+    "name": "XSF隐藏吊码",
+    "image": "/images/XSFyincangdiaoma.jpg",
+    "desc": "分左右·隐藏吊码挂墙系统 B01/B02，安全载重120KG；不分左右·隐藏吊码挂墙系统 B03，安全载重120KG；材质：铁*合金；隐藏安装于吊柜背板后",
+    "variants": [
+      {
+        "id": "v37",
+        "label": "XSF隐藏吊码",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p38",
+    "categoryId": "c4",
+    "name": "XSF蛇形管",
+    "image": "/images/XSFshexingguan.png",
+    "desc": "多种规格：细包杆、粗包杆、重粗心包杆、普通塑杆、定位塑杆、蓝色活动机丝塑杆、蓝色活动自攻塑杆、梯形塑杆、拉爆杆、澳洲杆、白色菠萝杆、彩锌菠萝杆、彩锌机丝铁杆、白色铁杆机丝、活动快装杆四瓣开口、两瓣开口、42定位自攻杆、45自攻塑杆、32活动定位杆、直通扣、滑扣",
+    "variants": [
+      {
+        "id": "v38",
+        "label": "XSF蛇形管",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p39",
+    "categoryId": "c4",
+    "name": "角码系列",
+    "image": "/images/jiaomaxilie.jpg",
+    "desc": "镀彩铁加厚角码、L型/一字型角码、一体成型、不锈钢角码、5厘机丝铁角码、背板扣塑料角码、45°小角码、加厚双孔大塞角",
+    "variants": [
+      {
+        "id": "v39",
+        "label": "角码系列",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p40",
+    "categoryId": "c4",
+    "name": "床角撑",
+    "image": "/images/chuangjiaocheng.jpg",
+    "desc": "小号：16x20x20；中号：24x18x18；大号：30x16x16",
+    "variants": [
+      {
+        "id": "v40",
+        "label": "床角撑",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p41",
+    "categoryId": "c4",
+    "name": "加厚二合一法兰座",
+    "image": "/images/jiahouerheyifalanzuo.jpg",
+    "desc": "多种款式可选，用于衣通杆连接",
+    "variants": [
+      {
+        "id": "v41",
+        "label": "加厚二合一法兰座",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p42",
+    "categoryId": "c5",
+    "name": "XSF挂衣杆",
+    "image": "/images/XSFguayigan.jpg",
+    "desc": "加厚挂衣杆，铝合金材质；方形12mm挂衣杆；三种颜色：黑色、银色、香槟；加厚心形挂衣杆，承重力强",
+    "variants": [
+      {
+        "id": "v42",
+        "label": "XSF挂衣杆",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p43",
+    "categoryId": "c5",
+    "name": "XSF衣托",
+    "image": "/images/XSFyituo.jpg",
+    "desc": "A型38克、B型31克、C型26克、C2型22克；中吊、挂搭、转角、半通；重量：20克/个",
+    "variants": [
+      {
+        "id": "v43",
+        "label": "XSF衣托",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p44",
+    "categoryId": "c5",
+    "name": "XSF铁衣架",
+    "image": "/images/XSFtieyijia.jpg",
+    "desc": "铁制衣架，用于衣柜悬挂衣物",
+    "variants": [
+      {
+        "id": "v44",
+        "label": "XSF铁衣架",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p45",
+    "categoryId": "c5",
+    "name": "XSF铁鞋架",
+    "image": "/images/XSFtiexiejia.jpg",
+    "desc": "铁制鞋架，用于收纳鞋子",
+    "variants": [
+      {
+        "id": "v45",
+        "label": "XSF铁鞋架",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p46",
+    "categoryId": "c5",
+    "name": "XSF伸宿衣架",
+    "image": "/images/XSFshensuyijia.jpg",
+    "desc": "可伸缩衣架，节省空间",
+    "variants": [
+      {
+        "id": "v46",
+        "label": "XSF伸宿衣架",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p47",
+    "categoryId": "c5",
+    "name": "不锈钢蘑菇拉手",
+    "image": "/images/buxiugangmogulashou.jpg",
+    "desc": "不锈钢材质，现代简约风格",
+    "variants": [
+      {
+        "id": "v47",
+        "label": "不锈钢蘑菇拉手",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p48",
+    "categoryId": "c5",
+    "name": "现代简约太空铝拉手",
+    "image": "/images/xiandaijianyuetaikonglvlashou.png",
+    "desc": "孔距：64mm、96mm、128mm、160mm、192mm；重大长度可定做",
+    "variants": [
+      {
+        "id": "v48",
+        "label": "现代简约太空铝拉手",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p49",
+    "categoryId": "c5",
+    "name": "合金衣钩",
+    "image": "/images/hejinyigou.jpg",
+    "desc": "多种款式：小号、中号、大号；颜色：青古铜、亮光金、亮光色、白色、红古铜、哑黑色；厚度：1.5MM、2MM、3MM",
+    "variants": [
+      {
+        "id": "v49",
+        "label": "合金衣钩",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p50",
+    "categoryId": "c5",
+    "name": "衣柜加厚挂衣杆",
+    "image": "/images/yiguijiahouguayigan.jpg",
+    "desc": "SURFACE AFTER POLISHING，多种颜色：心形·银色、金色、香槟；扁管·银色、金色、香槟；铝合金材质，拉丝纹路",
+    "variants": [
+      {
+        "id": "v50",
+        "label": "衣柜加厚挂衣杆",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p51",
+    "categoryId": "c5",
+    "name": "XSF酒杯架",
+    "image": "/images/XSFjiubeijia.jpg",
+    "desc": "可挂2-12个杯子，多种尺寸组合：5cm×3cm×35.5cm、9cm×30m×3cm、22.5cm×35.5cm×9nm、27.5cm×9cm×10.9cm等",
+    "variants": [
+      {
+        "id": "v51",
+        "label": "XSF酒杯架",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p52",
+    "categoryId": "c6",
+    "name": "XSF威斯朗脚轮",
+    "image": "/images/XSFweisilangjiaolun.png",
+    "desc": "寸半、2寸等多种尺寸",
+    "variants": [
+      {
+        "id": "v52",
+        "label": "XSF威斯朗脚轮",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p53",
+    "categoryId": "c6",
+    "name": "XSF伸缩脚",
+    "image": "/images/XSFshensuojiao.jpg",
+    "desc": "大调节家具脚，高度可调范围：8cm~12cm、12cm~18cm、18cm~30cm、25cm~42cm；旋转升降设计；表面烤漆，光滑靓丽",
+    "variants": [
+      {
+        "id": "v53",
+        "label": "XSF伸缩脚",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p54",
+    "categoryId": "c6",
+    "name": "XSF柜脚",
+    "image": "/images/XSFguijiao.jpg",
+    "desc": "衣柜橱柜可调节柜脚，加厚稳固，承重力强，灵活调节；防滑脚垫设计，抗压均匀，不伤地板；原色、镀镍两种",
+    "variants": [
+      {
+        "id": "v54",
+        "label": "XSF柜脚",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p55",
+    "categoryId": "c6",
+    "name": "家具防滑增高脚垫",
+    "image": "/images/jiajufanghuazenggaojiaodian.jpg",
+    "desc": "PVC脚垫，规格：26*10.5mm、19*6.5mm、16*5mm、15*5.5mm、15*10mm高；连排25颗粒装",
+    "variants": [
+      {
+        "id": "v55",
+        "label": "家具防滑增高脚垫",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p56",
+    "categoryId": "c6",
+    "name": "家具水晶防尘角粒",
+    "image": "/images/jiajushuijingfangchenjiaoli.jpg",
+    "desc": "双圈套小号、单圈套中号、双圈套中号、单圈套大号；多种尺寸与重量",
+    "variants": [
+      {
+        "id": "v56",
+        "label": "家具水晶防尘角粒",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p57",
+    "categoryId": "c6",
+    "name": "不锈钢家具柜脚",
+    "image": "/images/buxiugangjiajuguijiao.jpg",
+    "desc": "多规格可选：60/80/120/150/180/200/250mm；防滑底座",
+    "variants": [
+      {
+        "id": "v57",
+        "label": "不锈钢家具柜脚",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p58",
+    "categoryId": "c6",
+    "name": "家具地脚钉",
+    "image": "/images/jiajudijiaoding.jpg",
+    "desc": "规格齐全：20平地钉、21平地钉、22平地钉、23厚平地钉、25、22.5mm、11小地钉、13平地钉、25平地钉、29半圆地钉、14.5平大地钉、15平地钉、29平地钉白、16半圆地钉红棕、15防滑地钉、20防滑地钉、18平地钉红棕、18平地钉深棕、50×15×6双脚钉、20平地钉红棕、18平小方钉黑色等",
+    "variants": [
+      {
+        "id": "v58",
+        "label": "家具地脚钉",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p59",
+    "categoryId": "c6",
+    "name": "XSF透明橡胶家具脚垫",
+    "image": "/images/XSFtoumingxiangjiaojiajujiaodian.jpg",
+    "desc": "多种款式型号，一件=20只；保护地板，减噪音；带介款、无介款；赠送螺丝",
+    "variants": [
+      {
+        "id": "v59",
+        "label": "XSF透明橡胶家具脚垫",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p60",
+    "categoryId": "c7",
+    "name": "XSF插销",
+    "image": "/images/XSFchaxiao.jpg",
+    "desc": "安全插销装置，尺寸：3mm、10mm、16mm；孔距27mm、38mm、6mm",
+    "variants": [
+      {
+        "id": "v60",
+        "label": "XSF插销",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p61",
+    "categoryId": "c7",
+    "name": "XSF赌头",
+    "image": "/images/XSFdutou.jpg",
+    "desc": "长度：3米（支持定制）；两款堵头可挑选，适用于18厚门板",
+    "variants": [
+      {
+        "id": "v61",
+        "label": "XSF赌头",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p62",
+    "categoryId": "c7",
+    "name": "XSF反弹器",
+    "image": "/images/XSFfantanqi.png",
+    "desc": "HD铝壳反弹器，一按即开免拉手；磁吸反弹器，开柜新方式；子弹头反弹器；优质ABS材质，不畏潮湿，可用于浴室柜门；暗装款，可微调门缝；POM工程塑料，坚固耐用，静音开关",
+    "variants": [
+      {
+        "id": "v62",
+        "label": "XSF反弹器",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p63",
+    "categoryId": "c7",
+    "name": "XSF防水垫",
+    "image": "/images/XSFfangshuidian.png",
+    "desc": "T型、L型、圆角款等多种形状防水垫",
+    "variants": [
+      {
+        "id": "v63",
+        "label": "XSF防水垫",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p64",
+    "categoryId": "c7",
+    "name": "XSF防撞角",
+    "image": "/images/XSFfangzhuangjiao.jpg",
+    "desc": "【T型】3.2cm×1.2cm×3.2cm；【L型】4cm×1.5cm×4cm；【圆角款】2.2cm×2.5cm；多种颜色：黑色、透明、薄荷绿、天空蓝、藕粉色、粉红色；笑脸爱心软护，食品接触级材质",
+    "variants": [
+      {
+        "id": "v64",
+        "label": "XSF防撞角",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p65",
+    "categoryId": "c7",
+    "name": "XSF活性炭透气风",
+    "image": "/images/XSFhuoxingtantouqifeng.jpg",
+    "desc": "活性炭透气孔，防霉除臭，两种款式；内置活性炭包；尺寸：100mm×70mm、90mm×60mm",
+    "variants": [
+      {
+        "id": "v65",
+        "label": "XSF活性炭透气风",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p66",
+    "categoryId": "c7",
+    "name": "XSF趟门轮",
+    "image": "/images/XSFtangmenlun.png",
+    "desc": "订单号：338A下轮配011上轮、3388题门轮、小号338出口装盖门轮、A型03A题门轮、出门装趟门轮01A、特大型02A、378题门轮、天木园门轮、日型超门转、美木轮配011上轮、C型题门轮、普通型码门窗、02特殊型实木轮、E型00出口装、轻便轮配011上轮、轻便轮配C上轮、010出口装轻便轮(A/B型)、010出口装银色轻便轮(A/B型)；健康 Bearing.626进口轴承；净含量：83g(含配件)；包装规格：200套件或240套件",
+    "variants": [
+      {
+        "id": "v66",
+        "label": "XSF趟门轮",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p67",
+    "categoryId": "c7",
+    "name": "XSF家具锁",
+    "image": "/images/XSFjiajusuo.png",
+    "desc": "多种型号：138-32抽屉锁、136-22抽屉锁、101抽屉锁、138-22全合金锁、138-22高底锁、138-22AC锁(鼓胆)、201双开门7字锁、106-22锁、202全合金锁、138-22厚鼓底磨砂鼓面锁、328玻璃锁、138-22薄鼓底磨砂鼓面锁、136-22 AC锁、138-32抽屉锁、106抽屉锁、136-22全合金锁、138-22全合金锁；可选钥匙种类丰富；材质：外壳钢片/拉丝、合金锁芯/铁芯/全合金；表面处理：镀锌、喷涂黑色、挂格等；外径：10mm、16mm、19mm",
+    "variants": [
+      {
+        "id": "v67",
+        "label": "XSF家具锁",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p68",
+    "categoryId": "c7",
+    "name": "XSF透气网",
+    "image": "/images/XSFtouqiwang.jpg",
+    "desc": "5公分宽、6公分宽、8公分宽，银色；60哑黑；长方形铝合金透气网；电脑主机透气网；不锈钢透气孔",
+    "variants": [
+      {
+        "id": "v68",
+        "label": "XSF透气网",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p69",
+    "categoryId": "c7",
+    "name": "XSF毛边",
+    "image": "/images/XSFmaobian.jpg",
+    "desc": "规格：穿插13x6 200x4、9x5高级喷胶 200x4",
+    "variants": [
+      {
+        "id": "v69",
+        "label": "XSF毛边",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p70",
+    "categoryId": "c7",
+    "name": "XSF螺母",
+    "image": "/images/XSFluomu.png",
+    "desc": "规格：8×20大介#介面25、8×20大介、6×18大介、6×15大介井介面16、8×18大介#介面25、8×15大介、8×25大介",
+    "variants": [
+      {
+        "id": "v70",
+        "label": "XSF螺母",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p71",
+    "categoryId": "c7",
+    "name": "XSF拉直器",
+    "image": "/images/XSFlazhiqi.jpg",
+    "desc": "多种款式：XSF VF款、极简款、猫头鹰款、哑金、喷白、钛金、铁灰、香槟金、威法金、哑黑、极简款钛金；颜色：哑深香槟、哑银、铁灰、香槟金、威法金、哑黑；尺寸：1.9米、2.3米、2.7米，最长切40公分",
+    "variants": [
+      {
+        "id": "v71",
+        "label": "XSF拉直器",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p72",
+    "categoryId": "c7",
+    "name": "XSF拉直器（重复）",
+    "image": "/images/XSFlazhiqi（chongfu）.jpg",
+    "desc": "同上，在图册-3中再次提及",
+    "variants": [
+      {
+        "id": "v72",
+        "label": "XSF拉直器（重复）",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p73",
+    "categoryId": "c7",
+    "name": "塑料穿线盒",
+    "image": "/images/suliaochuanxianhe.png",
+    "desc": "多个规格多色可选，开孔直径35mm至80mm",
+    "variants": [
+      {
+        "id": "v73",
+        "label": "塑料穿线盒",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p74",
+    "categoryId": "c7",
+    "name": "加厚塑料线盒",
+    "image": "/images/jiahousuliaoxianhe.jpg",
+    "desc": "开孔: 65MM；桌面大电脑穿线盒",
+    "variants": [
+      {
+        "id": "v74",
+        "label": "加厚塑料线盒",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p75",
+    "categoryId": "c7",
+    "name": "电脑桌合金穿线盒",
+    "image": "/images/diannaozhuohejinchuanxianhe.jpg",
+    "desc": "COMPUER DESK ALLOY THREADING BOX，解决桌面凌乱，容纳更大更整洁干净",
+    "variants": [
+      {
+        "id": "v75",
+        "label": "电脑桌合金穿线盒",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p76",
+    "categoryId": "c7",
+    "name": "家具孔塞系列",
+    "image": "/images/jiajukongsaixilie.jpg",
+    "desc": "多种规格：35mm、38mm、40mm；铭科五金配件厂出品，多色可选，可定做颜色",
+    "variants": [
+      {
+        "id": "v76",
+        "label": "家具孔塞系列",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p77",
+    "categoryId": "c7",
+    "name": "U型封边下水口",
+    "image": "/images/Uxingfengbianxiashuikou.jpg",
+    "desc": "PP材质，U型封边，厂家直供；3厘双用款、5厘180°款、5厘90°款、5厘双用款、3厘90°款、3厘180°款、12厘、10厘、8厘、6厘",
+    "variants": [
+      {
+        "id": "v77",
+        "label": "U型封边下水口",
+        "spec": ""
+      }
+    ]
+  },
+  {
+    "id": "p78",
+    "categoryId": "c7",
+    "name": "XSF毛条",
+    "image": "/images/XSFmaotiao.jpg",
+    "desc": "PU FOAM SPONAGE COATED SEALING STRIP SERIES，包覆式发泡密封条系列",
+    "variants": [
+      {
+        "id": "v78",
+        "label": "XSF毛条",
+        "spec": ""
+      }
+    ]
+  }
+]
