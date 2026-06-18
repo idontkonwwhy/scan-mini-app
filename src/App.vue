@@ -10,7 +10,7 @@ const showTabs = computed(() => route.name !== 'Detail')
   <div class="app">
     <router-view />
     <nav v-if="showTabs" class="tabs">
-      <router-link to="/" class="tab" active-class="tab--active" exact>
+      <router-link to="/" class="tab" active-class="tab--active">
         <span class="tab-icon">&#8962;</span>
         <span class="tab-label">首页</span>
       </router-link>
