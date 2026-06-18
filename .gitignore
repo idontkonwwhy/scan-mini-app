@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Backup files from old project migration
+_images_backup/
+_catalog_backup.json
+
+# Superpowers brainstorming state
+.superpowers/brainstorm/*/state/
