@@ -1,17 +1,12 @@
 <!DOCTYPE html>
 <html>
-<head><meta charset="UTF-8"><title>扫码访问</title>
-<script src="https://cdn.jsdelivr.net/npm/qrcode@1/build/qrcode.min.js"></script>
-</head>
-<body style="display:flex;align-items:center;justify-content:center;min-height:100vh;background:#F5F5F7;flex-direction:column;font-family:-apple-system,sans-serif;margin:0;">
-  <h2 style="margin-bottom:8px;color:#1D1D1F;font-weight:600;">五金配件目录</h2>
-  <p style="margin-bottom:24px;color:#8E8E93;font-size:14px;">手机扫码直接浏览</p>
-  <div id="qr"></div>
-  <p style="margin-top:16px;color:#AEAEB2;font-size:12px;">https://idontkonwwhy.github.io/scan-mini-app/</p>
-  <script>
-    QRCode.toCanvas(document.getElementById('qr'), 'https://idontkonwwhy.github.io/scan-mini-app/', {
-      width: 260, margin: 2, color: { dark:'#1D1D1F', light:'#FFF' }
-    });
-  </script>
+<head><meta charset="UTF-8"><title>扫码访问 - 五金配件目录</title></head>
+<body style="display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0;background:#F5F5F7;flex-direction:column;font-family:-apple-system,sans-serif;">
+  <h2 style="color:#1D1D1F;font-weight:600;margin-bottom:24px;">五金配件目录</h2>
+  <div style="background:#FFF;padding:24px;border-radius:16px;box-shadow:0 1px 4px rgba(0,0,0,0.04);">
+    <img src="/scan-mini-app/qr.png" alt="QR" style="width:240px;height:240px;" onerror="this.alt='二维码加载失败'">
+  </div>
+  <p style="color:#8E8E93;font-size:13px;margin-top:16px;">手机扫码浏览</p>
+  <p style="color:#AEAEB2;font-size:11px;">idontkonwwhy.github.io/scan-mini-app/</p>
 </body>
 </html>
